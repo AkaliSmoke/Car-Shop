@@ -43,7 +43,7 @@
             lbTelaDeConsultas.AutoSize = true;
             lbTelaDeConsultas.Font = new Font("Yu Gothic Medium", 18F, FontStyle.Bold, GraphicsUnit.Point, 0);
             lbTelaDeConsultas.ForeColor = Color.Red;
-            lbTelaDeConsultas.Location = new Point(68, 125);
+            lbTelaDeConsultas.Location = new Point(68, 107);
             lbTelaDeConsultas.Name = "lbTelaDeConsultas";
             lbTelaDeConsultas.Size = new Size(224, 31);
             lbTelaDeConsultas.TabIndex = 1;
@@ -58,6 +58,7 @@
             btnClientes.TabIndex = 2;
             btnClientes.Text = "Tela de Gerenciamento de Clientes";
             btnClientes.UseVisualStyleBackColor = true;
+            btnClientes.Click += btnClientes_Click;
             // 
             // btnVeiculos
             // 
@@ -68,6 +69,7 @@
             btnVeiculos.TabIndex = 3;
             btnVeiculos.Text = "Tela de Gerenciamento de Veiculos";
             btnVeiculos.UseVisualStyleBackColor = true;
+            btnVeiculos.Click += btnVeiculos_Click;
             // 
             // btnVendedor
             // 
@@ -78,6 +80,7 @@
             btnVendedor.TabIndex = 4;
             btnVendedor.Text = "Tela de Gerenciamento de Vendedor";
             btnVendedor.UseVisualStyleBackColor = true;
+            btnVendedor.Click += btnVendedor_Click;
             // 
             // btnFechar
             // 
@@ -88,6 +91,7 @@
             btnFechar.TabIndex = 5;
             btnFechar.Text = "Fechar o Programa";
             btnFechar.UseVisualStyleBackColor = true;
+            btnFechar.Click += btnFechar_Click;
             // 
             // lbCarShop
             // 
@@ -102,7 +106,7 @@
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label1.ForeColor = SystemColors.Desktop;
-            label1.Location = new Point(45, 47);
+            label1.Location = new Point(48, 47);
             label1.Name = "label1";
             label1.Size = new Size(266, 25);
             label1.TabIndex = 7;

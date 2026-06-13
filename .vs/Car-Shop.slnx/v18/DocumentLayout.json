@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\car-shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|c:\\users\\kaio.mfernandes\\source\\repos\\car-shop\\car-shop\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|solutionrelative:car-shop\\formclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|c:\\users\\kaio.mfernandes\\source\\repos\\car-shop\\car-shop\\formveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|solutionrelative:car-shop\\formveiculos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|c:\\users\\kaio.mfernandes\\source\\repos\\car-shop\\car-shop\\formvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|solutionrelative:car-shop\\formvendedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|c:\\users\\kaio.mfernandes\\source\\repos\\car-shop\\car-shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|solutionrelative:car-shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|c:\\users\\kaio.mfernandes\\source\\repos\\car-shop\\car-shop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|solutionrelative:car-shop\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|c:\\users\\kaio.mfernandes\\source\\repos\\car-shop\\car-shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FFAC880-6E37-9D8B-128C-452D2E3BB012}|Car-Shop\\Car-Shop.csproj|solutionrelative:car-shop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,20 +42,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Car-Shop\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\Form1.Designer.cs",
-              "RelativeToolTip": "Car-Shop\\Form1.Designer.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAApwIoAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "FormClientes.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\FormClientes.cs",
+              "RelativeDocumentMoniker": "Car-Shop\\FormClientes.cs",
+              "ToolTip": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\FormClientes.cs [Projeto]",
+              "RelativeToolTip": "Car-Shop\\FormClientes.cs [Projeto]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-12T01:00:24.617Z",
+              "WhenOpened": "2026-06-12T22:36:25.703Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\Form1.cs",
+              "RelativeDocumentMoniker": "Car-Shop\\Form1.cs",
+              "ToolTip": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\Form1.cs",
+              "RelativeToolTip": "Car-Shop\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:38:39.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "FormVendedor.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\FormVendedor.cs",
+              "RelativeDocumentMoniker": "Car-Shop\\FormVendedor.cs",
+              "ToolTip": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\FormVendedor.cs [Projeto]",
+              "RelativeToolTip": "Car-Shop\\FormVendedor.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:38:01.541Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormVeiculos.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\FormVeiculos.cs",
+              "RelativeDocumentMoniker": "Car-Shop\\FormVeiculos.cs",
+              "ToolTip": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\FormVeiculos.cs [Projeto]",
+              "RelativeToolTip": "Car-Shop\\FormVeiculos.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-12T22:37:03.188Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Projeto]",
               "DocumentMoniker": "C:\\Users\\kaio.mfernandes\\source\\repos\\Car-Shop\\Car-Shop\\Form1.cs",
               "RelativeDocumentMoniker": "Car-Shop\\Form1.cs",
